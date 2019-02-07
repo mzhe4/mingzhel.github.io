@@ -1,1 +1,4 @@
-theme: jekyll-theme-minimal
+deploy:
+  type: git
+  repository: https://mzhe4.github.io/notes/
+  branch: master
